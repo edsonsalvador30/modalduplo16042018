@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "32390823871",
+    "firebase_url": "https://projeto-edson-ac71a.firebaseio.com",
+    "project_id": "projeto-edson-ac71a",
+    "storage_bucket": "projeto-edson-ac71a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32390823871:android:d95b0144ed5a13fa",
+        "android_client_info": {
+          "package_name": "com.edsonmobile.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32390823871-g4u11lue9tgnfs7qq8jpdnguj26056aq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_15D0yk0PXtCYMIyW_gtEsAE9cTcnPuM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
